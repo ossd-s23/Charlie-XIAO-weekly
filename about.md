@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Yao Xiao, and my Chinese name is 萧尧 (xiāo yáo). I am an undergraduate (currently in junior year) majoring in Honors Mathematics and Computer Science at NYU Shanghai. During the Fall 2022 and Spring 2023 semesters, I am studying away in New York.
+My name is Yao Xiao, and my Chinese name is 萧尧 (xiāo yáo). I am an undergraduate (currently in junior year) majoring in Honors Mathematics and Computer Science at NYU Shanghai. During the Fall 2022 and Spring 2023 semesters, I am studying away in New York at NYU CAS and NYU Courant.
 
 I was Learning Assistant for Calculus (MATH-SHU.0131) during the Fall 2021 semester at Department of Mathematics, NYU Shanghai. I am also currently Tutor for undergraduate Operating Systems (CSCI-UA.0202) during the Spring 2023 semester at Department of Computer Science, Courant Institute of Mathematical Sciences.
 
