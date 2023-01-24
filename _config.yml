@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Yao (Charlie) Xiao
+name: Yao Xiao
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
-description: CS480.61
+description: @ CSCI-UA.0480.61
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -37,7 +37,7 @@ footer-links:
   flickr:
   github: Charlie-XIAO
   instagram:
-  linkedin: Yao Xiao
+  linkedin: yao-xiao-200073244
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
