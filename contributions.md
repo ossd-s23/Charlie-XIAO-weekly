@@ -20,8 +20,8 @@ Replace the first row with your own contribution.
 
 
 
-| Date #       | Contribution (Link)  | Type  | Description |
+| Date | Contribution | Type | Description |
 |---|:---|:---|:---|
-| Feb 3 | [link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap | I updated information about the apartment buildings around my home. |
+| Feb 3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap | I updated information about the apartment buildings around my home. |
 |     |     |     |      |
 |     |     |     |      |
