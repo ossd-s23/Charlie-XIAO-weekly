@@ -17,9 +17,7 @@ Replace the first row with your own contribution.
 -->
 
 
-
-
-
 | Date # | Contribution (Link) | Type | Description |
 |:---:|:---:|:---:|:---|
-| Feb 3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap | I updated information about the apartment buildings around my home. |
+| Feb 3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap Feature | I updated information about the apartment buildings around my home. |
+| Feb 7 | [Link](https://github.com/mdn/content/issues/24248) | MDN Web Docs | I opened an issue about adding a note in [this page](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension), which was closed by [@hamishwillee](https://github.com/hamishwillee). |
