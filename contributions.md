@@ -21,3 +21,4 @@ Replace the first row with your own contribution.
 |:---:|:---:|:---:|:---|
 | Feb 3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap Feature | I updated information about the apartment buildings around my home. |
 | Feb 7 | [Link](https://github.com/mdn/content/issues/24248) | MDN Web Docs Issue | I opened an issue about adding a note in [this page](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension), which was closed by [@hamishwillee](https://github.com/hamishwillee). |
+| Feb 15 | [Link](https://en.wikipedia.org/w/index.php?title=Subderivative&diff=prev&oldid=1139611483) | Wikipedia Edit | I reformatted the math formulas on the [Subderivative](https://en.wikipedia.org/wiki/Subderivative) page into LaTeX style. |
