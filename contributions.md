@@ -20,7 +20,6 @@ Replace the first row with your own contribution.
 
 - Mar 22: [FIX Remove spurious feature names warning in IsolationForest #25931](https://github.com/scikit-learn/scikit-learn/pull/25931)
 
-
 ### Others
 
 | Date # | Contribution (Link) | Type | Description |
