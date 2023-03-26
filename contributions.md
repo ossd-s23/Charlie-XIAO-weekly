@@ -18,9 +18,7 @@ Replace the first row with your own contribution.
 
 ### Scikit-learn
 
-| Date # | Contribution (Link) | Type | Description |
-|:---:|:---:|:---:|:---|
-| | | |
+- Mar 22: [FIX Remove spurious feature names warning in IsolationForest #25931](https://github.com/scikit-learn/scikit-learn/pull/25931)
 
 
 ### Others
