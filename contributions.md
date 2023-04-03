@@ -19,6 +19,9 @@ Replace the first row with your own contribution.
 ### Scikit-learn
 
 - 3/22: [FIX Remove spurious feature names warning in IsolationForest #25931](https://github.com/scikit-learn/scikit-learn/pull/25931)
+- 3/28: [FIX SequentialFeatureSelector throws IndexError when cv is a generator #25973](https://github.com/scikit-learn/scikit-learn/pull/25973)
+- 3/30: [DOC fix SplineTransformer include_bias docstring #26018](https://github.com/scikit-learn/scikit-learn/pull/26018)
+- 3/30: [ENH RocCurveDisplay add option to plot chance level #25987](https://github.com/scikit-learn/scikit-learn/pull/25987)
 
 ### Others
 
