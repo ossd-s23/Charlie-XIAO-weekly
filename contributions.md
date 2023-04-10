@@ -18,22 +18,22 @@ Replace the first row with your own contribution.
 
 ### Scikit-learn
 
-- 3/22: [FIX Remove spurious feature names warning in IsolationForest #25931](https://github.com/scikit-learn/scikit-learn/pull/25931)
-- 3/28: [FIX SequentialFeatureSelector throws IndexError when cv is a generator #25973](https://github.com/scikit-learn/scikit-learn/pull/25973)
-- 3/30: [DOC fix SplineTransformer include_bias docstring #26018](https://github.com/scikit-learn/scikit-learn/pull/26018)
-- 3/30: [ENH RocCurveDisplay add option to plot chance level #25987](https://github.com/scikit-learn/scikit-learn/pull/25987)
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26036">MAINT Parameters validation for sklearn.preprocessing.scale #26036</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26047">MAINT Parameters validation for sklearn.metrics.pairwise.haversine_distances #26047</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26048">MAINT Parameters validation for sklearn.metrics.pairwise.laplacian_kernel #26048</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26049">MAINT Parameters validation for sklearn.metrics.pairwise.linear_kernel #26049</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26046">MAINT Parameters validation for sklearn.metrics.pairwise.cosine_distances #26046</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26073">MAINT Parameters validation for sklearn.metrics.pairwise.paired_euclidean_distances #26073</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26074">MAINT Parameters validation for sklearn.metrics.pairwise.paired_manhattan_distances #26074</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26075">MAINT Parameters validation for sklearn.metrics.pairwise.paired_cosine_distances #26075</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26070">MAINT Parameters validation for sklearn.metrics.pairwise.polynomial_kernel #26070</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26071">MAINT Parameters validation for sklearn.metrics.pairwise.rbf_kernel #26071</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26072">MAINT Parameters validation for sklearn.metrics.pairwise.sigmoid_kernel #26072</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26085">MAINT Param validation: constraint for numeric missing values #26085</a>
+- 3/22: [FIX Remove spurious feature names warning in IsolationForest](https://github.com/scikit-learn/scikit-learn/pull/25931)
+- 3/28: [FIX SequentialFeatureSelector throws IndexError when cv is a generator](https://github.com/scikit-learn/scikit-learn/pull/25973)
+- 3/30: [DOC fix SplineTransformer include_bias docstring](https://github.com/scikit-learn/scikit-learn/pull/26018)
+- 3/30: [ENH RocCurveDisplay add option to plot chance level](https://github.com/scikit-learn/scikit-learn/pull/25987)
+- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26036">MAINT Parameters validation for sklearn.preprocessing.scale</a>
+- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26047">MAINT Parameters validation for sklearn.metrics.pairwise.haversine_distances</a>
+- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26048">MAINT Parameters validation for sklearn.metrics.pairwise.laplacian_kernel</a>
+- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26049">MAINT Parameters validation for sklearn.metrics.pairwise.linear_kernel</a>
+- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26046">MAINT Parameters validation for sklearn.metrics.pairwise.cosine_distances</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26073">MAINT Parameters validation for sklearn.metrics.pairwise.paired_euclidean_distances</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26074">MAINT Parameters validation for sklearn.metrics.pairwise.paired_manhattan_distances</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26075">MAINT Parameters validation for sklearn.metrics.pairwise.paired_cosine_distances</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26070">MAINT Parameters validation for sklearn.metrics.pairwise.polynomial_kernel</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26071">MAINT Parameters validation for sklearn.metrics.pairwise.rbf_kernel</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26072">MAINT Parameters validation for sklearn.metrics.pairwise.sigmoid_kernel</a>
+- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26085">MAINT Param validation: constraint for numeric missing values</a>
 
 ### Others
 
