@@ -34,6 +34,10 @@ Replace the first row with your own contribution.
 - 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26071">MAINT Parameters validation for sklearn.metrics.pairwise.rbf_kernel</a>
 - 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26072">MAINT Parameters validation for sklearn.metrics.pairwise.sigmoid_kernel</a>
 - 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26085">MAINT Param validation: constraint for numeric missing values</a>
+- 4/12: <a href="https://github.com/scikit-learn/scikit-learn/pull/26126">MAINT Parameters validation for sklearn.datasets.fetch_rcv1 #26126</a>
+- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26166">MAINT Parameters validation for sklearn.datasets.load_diabetes #26166</a>
+- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26165">MAINT Parameters validation for sklearn.datasets.load_breast_cancer #26165</a>
+- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26161">MAINT Parameters validation for sklearn.datasets.fetch_species_distributions #26161</a>
 
 ### Others
 
@@ -48,3 +52,4 @@ Replace the first row with your own contribution.
 | 2/28 | [Link](https://github.com/microsoft/vscode-jupyter/issues/12972) | VSCode Jupyter Issue | I opened an issue reporting a bug on the suspended and uninterruptable cell. However, this turned out to be a Jupyter issue. |
 | 3/13 | [Link](https://github.com/pandas-dev/pandas/pull/51947) | Pandas Code Contribution | I claimed [this issue](https://github.com/pandas-dev/pandas/issues/51861) suggesting enhancement for the error message of `DataFrame.merge`, and made a [Pull Request](https://github.com/pandas-dev/pandas/pull/51947) which has been approved, merged, and added to [Milestone 2.1](https://github.com/pandas-dev/pandas/milestone/103). |
 | 3/25 | [Link](https://github.com/ossd-s23/cto234-weekly/issues/1) | Weekly Blog Issue | I opened an issue about fixing the week number of [@cto234](https://github.com/cto234)'s post for Week 9. |
+| 4/14 | [Link](https://github.com/scikit-learn-contrib/imbalanced-learn/pull/985) | Imbalanced-learn Doc Contribution | I opened a pull request fixing the CircleCI badge in the README file. |
