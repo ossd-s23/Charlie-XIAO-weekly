@@ -16,31 +16,6 @@ Replace the first row with your own contribution.
 
 -->
 
-### Scikit-learn
-
-- 3/22: [FIX Remove spurious feature names warning in IsolationForest](https://github.com/scikit-learn/scikit-learn/pull/25931)
-- 3/28: [FIX SequentialFeatureSelector throws IndexError when cv is a generator](https://github.com/scikit-learn/scikit-learn/pull/25973)
-- 3/30: [DOC fix SplineTransformer include_bias docstring](https://github.com/scikit-learn/scikit-learn/pull/26018)
-- 3/30: [ENH RocCurveDisplay add option to plot chance level](https://github.com/scikit-learn/scikit-learn/pull/25987)
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26036">MAINT Parameters validation for sklearn.preprocessing.scale</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26047">MAINT Parameters validation for sklearn.metrics.pairwise.haversine_distances</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26048">MAINT Parameters validation for sklearn.metrics.pairwise.laplacian_kernel</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26049">MAINT Parameters validation for sklearn.metrics.pairwise.linear_kernel</a>
-- 4/3: <a href="https://github.com/scikit-learn/scikit-learn/pull/26046">MAINT Parameters validation for sklearn.metrics.pairwise.cosine_distances</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26073">MAINT Parameters validation for sklearn.metrics.pairwise.paired_euclidean_distances</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26074">MAINT Parameters validation for sklearn.metrics.pairwise.paired_manhattan_distances</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26075">MAINT Parameters validation for sklearn.metrics.pairwise.paired_cosine_distances</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26070">MAINT Parameters validation for sklearn.metrics.pairwise.polynomial_kernel</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26071">MAINT Parameters validation for sklearn.metrics.pairwise.rbf_kernel</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26072">MAINT Parameters validation for sklearn.metrics.pairwise.sigmoid_kernel</a>
-- 4/4: <a href="https://github.com/scikit-learn/scikit-learn/pull/26085">MAINT Param validation: constraint for numeric missing values</a>
-- 4/12: <a href="https://github.com/scikit-learn/scikit-learn/pull/26126">MAINT Parameters validation for sklearn.datasets.fetch_rcv1 #26126</a>
-- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26166">MAINT Parameters validation for sklearn.datasets.load_diabetes #26166</a>
-- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26165">MAINT Parameters validation for sklearn.datasets.load_breast_cancer #26165</a>
-- 4/14: <a href="https://github.com/scikit-learn/scikit-learn/pull/26161">MAINT Parameters validation for sklearn.datasets.fetch_species_distributions #26161</a>
-
-### Others
-
 | Date # | Contribution (Link) | Type | Description |
 |:---:|:---:|:---:|:---|
 | 2/3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap Feature | I updated information about the apartment buildings around my home. |
