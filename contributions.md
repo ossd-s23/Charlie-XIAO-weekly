@@ -16,6 +16,12 @@ Replace the first row with your own contribution.
 
 -->
 
+I have been mainly contributing to scikit-learn and pandas, and you can see the collection of my contributions below:
+- [Merged pull requests](https://github.com/pandas-dev/pandas/commits?author=Charlie-XIAO) in pandas; [contribution details](https://charlie-xiao.github.io/projects/pandas-contrib.html)
+- [Merged pull requests](https://github.com/scikit-learn/scikit-learn/commits?author=Charlie-XIAO) in scikit-learn; [contribution details](https://charlie-xiao.github.io/projects/sklearn-contrib.html)
+
+As follows is the list of specific contributions I made during the semester (not counting my contributions to scikit-learn since it is my final group project):
+
 | Date # | Contribution (Link) | Type | Description |
 |:---:|:---:|:---:|:---|
 | 2/3 | [Link](https://www.openstreetmap.org/changeset/132062097) | OpenStreetMap Feature | I updated information about the apartment buildings around my home. |
